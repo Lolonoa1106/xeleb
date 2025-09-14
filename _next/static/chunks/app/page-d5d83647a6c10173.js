@@ -2468,26 +2468,25 @@
                                           }),
                                         ],
                                       }),
-                                      (0, i.jsx)("div", {
-                                        className:
-                                          "md:self-end w-full flex justify-center md:justify-start",
-                                        children: (0, i.jsx)(x.r, {
-                                          fullWidth: t,
-                                          variant: "borderedWhite",
-                                          className: "px-3 pl-2 bg-black/30",
-                                          leftIcon: (0, i.jsx)(d.default, {
-                                            src: "/images/arrowUpRight.png",
-                                            width: 20,
-                                            height: 20,
-                                            alt: "star",
-                                          }),
-                                          onPress: () => {
-                                            "#" !== e.readUrl &&
-                                              window.open(e.readUrl, "_blank");
-                                          },
-                                          children: "READ",
-                                        }),
-                                      }),
+                                      // (0, i.jsx)("div", {
+                                      //   className:
+                                      //     "md:self-end w-full flex justify-center md:justify-start",
+                                      //   children: (0, i.jsx)(x.r, {
+                                      //     fullWidth: t,
+                                      //     variant: "borderedWhite",
+                                      //     className: "px-3 pl-2 bg-black/30",
+                                      //     leftIcon: (0, i.jsx)(d.default, {
+                                      //       src: "/images/arrowUpRight.png",
+                                      //       width: 20,
+                                      //       height: 20,
+                                      //       alt: "star",
+                                      //     }),
+                                      //     onPress: () => {
+                                      //       "#" !== e.readUrl &&
+                                      //         window.open(e.readUrl, "_blank");
+                                      //     },
+                                      //   }),
+                                      // }),
                                     ],
                                   }),
                                   f(e, a),
