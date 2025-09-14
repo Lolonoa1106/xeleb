@@ -425,21 +425,21 @@
                                     "text-sm text-white/80 mb-4  line-clamp-2",
                                   children: e.desc,
                                 }),
-                                (0, i.jsx)("div", {
-                                  className: "mt-auto",
-                                  children: (0, i.jsx)(x.r, {
-                                    variant: "borderedWhite",
-                                    className: "px-3 pl-2 bg-black/30",
-                                    leftIcon: (0, i.jsx)(d.default, {
-                                      src: "/images/arrowUpRight.png",
-                                      width: 20,
-                                      height: 20,
-                                      alt: "star",
-                                    }),
-                                    onClick: () => window.open(j(e)),
-                                    children: "View More",
-                                  }),
-                                }),
+                                // (0, i.jsx)("div", {
+                                //   className: "mt-auto",
+                                //   children: (0, i.jsx)(x.r, {
+                                //     variant: "borderedWhite",
+                                //     className: "px-3 pl-2 bg-black/30",
+                                //     leftIcon: (0, i.jsx)(d.default, {
+                                //       src: "/images/arrowUpRight.png",
+                                //       width: 20,
+                                //       height: 20,
+                                //       alt: "star",
+                                //     }),
+                                //     onClick: () => window.open(j(e)),
+                                //     children: "View More",
+                                //   }),
+                                // }),
                               ],
                             }),
                           ],
