@@ -736,8 +736,8 @@
           CONTACT: "/contact",
         },
         p = {
-          x: "https://x.com/xelebofficial",
-          telegram: "https://t.me/XelebProtocol",
+          x: "https://x.com",
+          telegram: "https://t.me",
           facebook: "https://www.facebook.com/xelebofficial",
           instagram: "https://www.instagram.com/xelebofficial",
           linkedin: "https://www.linkedin.com/company/xelebofficial/ ",
