@@ -2136,20 +2136,20 @@
                         "text-white font-sans font-medium text-5xl md:text-8xl leading-tight md:leading-[1.1] md:mb-10 mb-6 whitespace-pre-line text-center md:text-left",
                       children: ["Frequently", " ", "Asked", " ", "Questions"],
                     }),
-                    (0, i.jsx)("div", {
-                      children: (0, i.jsx)(x.r, {
-                        variant: "borderedWhite",
-                        className: "w-full md:w-auto px-2 pr-3",
-                        leftIcon: (0, i.jsx)(d.default, {
-                          src: "/images/arrowUpRight.png",
-                          width: 20,
-                          height: 20,
-                          alt: "star",
-                        }),
-                        onClick: () => window.open(l.fo.VIEW_ALL),
-                        children: (0, i.jsx)("span", { children: "READ ALL" }),
-                      }),
-                    }),
+                    // (0, i.jsx)("div", {
+                    //   children: (0, i.jsx)(x.r, {
+                    //     variant: "borderedWhite",
+                    //     className: "w-full md:w-auto px-2 pr-3",
+                    //     leftIcon: (0, i.jsx)(d.default, {
+                    //       src: "/images/arrowUpRight.png",
+                    //       width: 20,
+                    //       height: 20,
+                    //       alt: "star",
+                    //     }),
+                    //     onClick: () => window.open(l.fo.VIEW_ALL),
+                    //     children: (0, i.jsx)("span", { children: "READ ALL" }),
+                    //   }),
+                    // }),
                   ],
                 }),
                 (0, i.jsx)("div", {
